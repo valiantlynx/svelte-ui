@@ -708,10 +708,10 @@
     daisyui "^3.6.1"
     tailwindcss "^3.2.4"
 
-"@valiantlynx/tsconfig@^0.0.24":
-  version "0.0.24"
-  resolved "https://registry.yarnpkg.com/@valiantlynx/tsconfig/-/tsconfig-0.0.24.tgz#76fdaa783e68306fe5277ea058901e50f2ab7ca2"
-  integrity sha512-gyFwIamIof9avLWp8rdUXR+/m2tvLatkkH/QZSrl0NUWK1CDwTbFFNQPjqzFS0ObFSoRP7JF4OOyno1HCcR9FA==
+"@valiantlynx/tsconfig@^0.0.25":
+  version "0.0.25"
+  resolved "https://registry.yarnpkg.com/@valiantlynx/tsconfig/-/tsconfig-0.0.25.tgz#119e5bae0361a11fc210580ed09869fb4c78a2f8"
+  integrity sha512-mg6nH+EGQ6WZWwF4jKoj4vsMjnARGvQmBwvMtMlGU+oHLp3r3NCB05dYUqaLvVV30ZDjQfmMuKybul5XjPVCcA==
 
 acorn-jsx@^5.3.2:
   version "5.3.2"
