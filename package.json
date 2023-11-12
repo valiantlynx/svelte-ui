@@ -53,6 +53,7 @@
 	},
 	"devDependencies": {
 		"@changesets/cli": "^2.26.2",
+		"@iconify/svelte": "^3.1.4",
 		"@sveltejs/adapter-auto": "^2.0.0",
 		"@sveltejs/kit": "^1.20.4",
 		"@sveltejs/package": "^2.0.0",
