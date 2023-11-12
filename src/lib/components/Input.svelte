@@ -4,23 +4,23 @@
 	/**
 	 * @type {any}
 	 */
-	 export let id;
+	export let id;
 	/**
 	 * @type {any}
 	 */
-	 export let label;
+	export let label;
 	export let type = 'text';
 	export let disabled = false;
 	export let required = false;
 	/**
 	 * @type {any}
 	 */
-	 export let minlength;
+	export let minlength;
 
 	/**
 	 * @type {any}
 	 */
-	 export let errors;
+	export let errors;
 </script>
 
 <div class="form-control w-full max-w-lg mb-2">

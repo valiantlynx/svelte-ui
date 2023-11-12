@@ -2,11 +2,11 @@
 	/**
 	 * @type {any}
 	 */
-	 export let label;
+	export let label;
 	/**
 	 * @type {any}
 	 */
-	 export let checked;
+	export let checked;
 </script>
 
 <label for={label}>
@@ -14,7 +14,7 @@
 </label>
 
 <input type="checkbox" id={label} class="modal-toggle" {checked} />
-<label for={label} class="modal modal-bottom sm:modal-middle ">
+<label for={label} class="modal modal-bottom sm:modal-middle">
 	<label for="" class="modal-box">
 		<div class="font-bold text-xl text-center">
 			<slot name="heading" />

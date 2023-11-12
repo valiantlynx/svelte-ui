@@ -2,7 +2,7 @@
 	/**
 	 * @type {any}
 	 */
-	 export let loaded;
+	export let loaded;
 </script>
 
 {#if !loaded}
